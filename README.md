@@ -36,3 +36,7 @@
 - Envelope intro video and poster recolored from royal blue to olive (`goldleaf-olive-open.*`); the gold leaf seal is unchanged
 - Navy sections → deep olive, cream sections → white, gold/navy accents → olive tones
 - Hero titles are white with a soft olive shadow so they read over both the day and night frames of the hero video
+
+## Guest Messages
+
+The RSVP form sends each message to Supabase via `js/rsvp-supabase.js`. Messages from this site and the Arabic one are read on the passcode-protected `ahmed-engy-wedding-responses.html` page in the Arabic repo: https://github.com/ebrahemmostafa/ahmed-engy-wedding
